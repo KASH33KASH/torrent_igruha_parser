@@ -1,0 +1,3 @@
+requests
+FakeAgent
+bs4
